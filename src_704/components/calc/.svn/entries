@@ -1,0 +1,55 @@
+8
+
+dir
+34
+svn://localhost/SRPAN/Matlab_v7.0.4/components/calc
+svn://localhost
+
+
+
+2008-12-07T01:12:49.812500Z
+34
+Keber
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+179289d5-1a15-bf42-9024-3ddc704e6e95
+
+perimetro.m
+file
+
+
+
+
+2008-12-07T01:13:38.968750Z
+1b3cea2c86c40f1d42d3f0bab14ce644
+2008-12-07T01:12:49.812500Z
+34
+Keber
+
+filtro_promedio.m
+file
+
+
+
+
+2008-12-07T01:13:38.968750Z
+a83f27d02f86e9e36657e20e5f6f740e
+2008-12-07T01:12:49.812500Z
+34
+Keber
+
+private
+dir
+

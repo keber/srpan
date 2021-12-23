@@ -1,0 +1,20 @@
+function varargout = dBase(varargin)
+%dBase Acceso a la base de datos
+%  [login_valido,tipo_usuario] = dBase('login')
+
+varargout=[{0},{0}];    %salida predeterminada
+if(nargin >= 1)
+        switch varargin{1}
+            case 'login'
+                [valid,type] = db_log(varargin{2},varargin{3});
+                varargout = [{valid},{type}];
+            case 'sp'
+                [varargout] = db_rsp(varargin{2:nargin})
+            case 'insert'
+                [varargout] = db_insert(va
+            otherwise
+                varargout = feval(varargin{1},varargin{2:nargin});    %llama a otra funcion
+        end
+end
+
+end
