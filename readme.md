@@ -4,20 +4,19 @@
 * [Setup](#setup)
 
 ## General info
-SRPAN - Sistema de Reconocimiento de Patrones de Actividad Neural
-
+SRPAN - Sistema de Reconocimiento de Patrones de Actividad Neural /
 Neural Activity Pattern Recognition System
 
-Universidad de Santiago de Chile - USACH
-Facultad de Ciencia
-Departamento de Matemática y Ciencia de la Computación (DMCC)
-Licenciatura en Ciencia de la Computación / B.Sc. Computer Science
+* Universidad de Santiago de Chile - USACH
+* Facultad de Ciencia
+* Departamento de Matemática y Ciencia de la Computación (DMCC)
+* Licenciatura en Ciencia de la Computación / B.Sc. Computer Science
 
-*Class: Inteligencia Artificial - Prof: Gonzalo Villarreal F.
-*Class: Desarrollo de Software II - Prof: Dino Araya S.
+* Class: Inteligencia Artificial - Prof: Gonzalo Villarreal F.
+* Class: Desarrollo de Software II - Prof: Dino Araya S.
 December 2007
 
-*Authors:
+* Authors:
 Susana Donoso J. - susanadonosojorquera@gmail.com
 Yashir Henriquez P. - yhenriquez@gmail.com
 Keber Flores B. - keberflores@gmail.com
@@ -29,8 +28,8 @@ This software gives the lab technician user a tool to fasten this process, by se
 ## Technologies
 Project created with:
 * Matworks Matlab R14 (7.04)
-** database toolbox
-** neural networks toolbox
+* Matlab database toolbox
+* Matlab neural networks toolbox
 * PostgreSQL
 
 The program was designed to work as a standalone system, by using Matlab Compiler Runtime.
