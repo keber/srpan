@@ -14,7 +14,7 @@ Neural Activity Pattern Recognition System
 * Class: Desarrollo de Software II - Prof: Dino Araya S.
 * December 2007
 
-###Authors:
+### Authors:
 * Susana Donoso J. - susanadonosojorquera@gmail.com
 * Yashir Henriquez P. - yhenriquez@gmail.com
 * Keber Flores B. - keberflores@gmail.com
